@@ -1,0 +1,32 @@
+--create database TSQLANLATIM 
+-- T SQL
+-- Deðiþken Tanýmlama
+-- c# int sayi =0;
+
+--declare @sayi1 int =5;
+--declare @sayi2 int;
+--set @sayi2 = 10 ;
+--select @sayi1,@sayi2
+
+-- T SQL 
+		-- IF ELSE
+		--IF [KOSUL]
+			--TEK SATIR ISLEM
+		--ELSE 
+			-- TEK SATIR ISLEM
+		--IF [KOSUL]
+		--	BEGIN
+		--	COK SATIR ISLEM
+		--	END;
+		--ELSE 
+		--	BEGIN 
+		--	COK SATIR ISLEM 
+		--	END;
+
+-- T SQL 
+	--SWÝTCH CASE => CASE WHEN
+	--CASE [KOSUL]
+	--	WHEN DEGER1 THEN SONUC2
+	--	WHEN DEGER2 THEN SONUC2
+	--	ELSE SONUC 
+	--END
